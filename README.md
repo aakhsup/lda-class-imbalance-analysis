@@ -139,5 +139,5 @@ pip install -r requirements.txt
 ## 👤 Автор
 
 **Анастасия**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- GitHub: [@aakhsup](https://github.com/aakhsup)
+- Email: nastakalugina5552@gmail.com
